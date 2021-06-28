@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209999893889",
+    "project_id": "symptoms-app-d2e6a",
+    "storage_bucket": "symptoms-app-d2e6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209999893889:android:817b2206e01b5ebfb0c480",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209999893889-imslqr5a662kqtk61sjsag6jmublcc4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9C20w0bFzEG8v3lMz-SJVZ6WoBYxW9Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209999893889-imslqr5a662kqtk61sjsag6jmublcc4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
